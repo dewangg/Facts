@@ -1,0 +1,32 @@
+#header{
+	background-color: blue;
+	display:inline-block;
+	width:2000px;
+	position: relative;
+	z-index: 20;
+}
+
+#searchBar{
+	background-color: red;
+	float:right;
+    margin-top:-50px;
+    position: relative;
+    z-index: 50;
+}
+
+#menu{
+	background-color:black;
+	color:white;
+}
+
+#sideBar{
+	background-color:green;
+}
+
+#facts{
+	background-color:yellow;
+}
+
+#bottomBar{
+	background-color:purple;
+}
